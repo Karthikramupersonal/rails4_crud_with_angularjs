@@ -13,3 +13,4 @@ Check demo app <a href="https://rails4-crud-with-angularjs.herokuapp.com">here</
 
 <h3>License</h3>
 <p>This is released under the MIT license.</p>
+test
